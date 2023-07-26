@@ -1,9 +1,9 @@
 <!-- <div style="background-image: url(https://thumbs.gfycat.com/TestyDisloyalChinchilla-size_restricted.gif); background-size: cover; height: 300px; text-align: center;"></div> -->
-<h3 align="center">Hi 👋, I'm Bensu.</h3>
-<h4 align="center">Passionate full-stack developer. Open to work and eager to contribute to a dynamic team with creative perspective and continuous development.</h4>
+<h1 align="center">Hi 👋, I'm Bensu.</h1>
+<h3 align="center">Passionate full-stack developer. Open to work and eager to contribute to a dynamic team with creative perspective and continuous development.</h3>
 
 
-<h5 align="left">Technical Skills:</h5>
+<h4 align="left">Technical Skills:</h4>
 <p align="left">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" title="HTML"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" title="CSS"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/> </a> 
@@ -22,7 +22,7 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer" title="Figma"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30"/> </a> 
 </p>
 
-<h6>📫 How to reach me: elifbensuaslan@gmail.com </h6>
+<h5>📫 How to reach me: elifbensuaslan@gmail.com </h5>
 <!-- <h5>Connect with me via Linked-in:</h5>
 <p align="left">
 <a href="https://linkedin.com/in/elif-bensu-zorlu-824a59244/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elif-bensu-zorlu-824a59244/" height="20" width="30" /></a>
