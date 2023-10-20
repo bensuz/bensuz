@@ -14,7 +14,7 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer" title="React"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/> </a> 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer" title="Node.js"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30"/> </a> 
 <a href="https://expressjs.com" target="_blank" rel="noreferrer" title="Express.js"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="30" height="30"/> </a> 
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer" title="Next.js"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer" title="Next.js"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="30" height="30"/> </a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" title="MongoDb"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="30" height="30"/> </a> 
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer" title="PostgreSQL"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="30" height="30"/> </a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" title="MySQL"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/> </a> 
@@ -23,7 +23,7 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer" title="Git"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a> 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer" title="Figma"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30"/> </a> 
   <a href="https://www.framer.com/" target="_blank" rel="noreferrer" title="Framer Motion"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="30" height="30"/>
-    <a href="https://jestjs.io" target="_blank" rel="noreferrer" title="Jest"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>
+    <a href="https://jestjs.io" target="_blank" rel="noreferrer" title="Jest"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="30" height="30"/> </a>
 </p>
 
 <h5>📫 How to reach me: elifbensuaslan@gmail.com </h5>
