@@ -30,6 +30,6 @@
 <h5>👨‍💻 My main projects are available at <a href="https://elifbensuzorlu-portfolio.vercel.app/" target="_blank" rel="noreferrer" title="My Portfolio">My Portfolio</a></h5>
 <h5>Connect with me via Linked-in:</h5>
 <p align="left">
-<a href="https://linkedin.com/in/elif-bensu-zorlu-824a59244/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elif-bensu-zorlu-824a59244/" height="20" width="30" /></a>
+<a href="https://linkedin.com/in/elif-bensu-zorlu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elif-bensu-zorlu-824a59244/" height="20" width="30" /></a>
 </p>
 
